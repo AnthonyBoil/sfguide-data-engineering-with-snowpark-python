@@ -1,8 +1,8 @@
 # SnowSQL config
 
 [connections.dev]
-accountname = ACCURO.BD15092
-username = ANTHONYB
+accountname = ACCURO.DATACLOUD
+username = ANTHONYBADMIN
 password = 13Dqntv13Dss89
 rolename = HOL_ROLE
 warehousename = HOL_WH
