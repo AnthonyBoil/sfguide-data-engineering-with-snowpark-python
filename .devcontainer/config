@@ -1,7 +1,7 @@
 # SnowSQL config
 
 [connections.dev]
-accountname = BD15092
+accountname = ACCURO.BD15092
 username = ANTHONYB
 password = 13Dqntv13Dss89
 rolename = HOL_ROLE
